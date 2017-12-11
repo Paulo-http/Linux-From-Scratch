@@ -1,0 +1,3 @@
+root_key: fRtMkG_89GumFYcHhz0YskIsT3iWO6O5-VVV3iKgceY=
+prefix: images/
+root_inode: image.png
